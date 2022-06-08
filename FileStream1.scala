@@ -15,7 +15,7 @@ object FileStream1 {
     
     val ssc=new StreamingContext(sc,Seconds(10));
     
-    println("spark context")
+    println("spa
     //8.10.00 -> 8.10.10
     //8.10.11 -> 8.10.20
     //dstream -> discretized stream -> micro batch rdds of x seconds
