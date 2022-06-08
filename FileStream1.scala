@@ -2,7 +2,7 @@ package org.inceptez.streaming
 import org.apache.spark._
 import org.apache.spark.sql._
 import org.apache.spark.streaming._;
-
+//scala project
 object FileStream1 {
   def main(args:Array[String])=
   {
